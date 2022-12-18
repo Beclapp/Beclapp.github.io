@@ -2,18 +2,18 @@
   date: Summer 2020
   page-name: weatherapp
 
-- title: YouTubeDownloader
-  date: Winter 2020
-  page-name: youtubedownloader
-
 - title: Stock Tracker Full Stack Project
   date: Spring 2021
   page-name: stocktrackerfullstack
   
-- title: java Web Crawler
+- title: Java Web Crawler
   date: Spring 2022
   page-name: javawebcrawler
   
 - title: Python Neural Network - CSC422 Term Project
   date: Fall 2022
   page-name: neuralnetworkpython
+  
+- title: Python PortScanner - CSC 474 Project
+  date: Fall 2022
+  page-name: pythonportscanner
